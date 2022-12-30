@@ -27,14 +27,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 # INTEGRANTES
-JAIRO RODRIGO MANCHAY PEREZ
+- JAIRO RODRIGO MANCHAY PEREZ
 
-KEVIN ZAMBRANO MARRUFO
+- KEVIN ZAMBRANO MARRUFO
 
-EMERSON JAIR CHACON CHOQUE
+- EMERSON JAIR CHACON CHOQUE
 
-SHIRLEY AZURIN SOTELO
+- SHIRLEY AZURIN SOTELO
 
-SAM GARCIA
+- SAM GARCIA
 
-VICTOR PEREZ VELIZ
+- VICTOR PEREZ VELIZ
